@@ -11,13 +11,13 @@ function addUpTo(n) {
     return total;
 }
 
-console.log(addUpTo(7));
+console.log(addUpTo(5));
 
 // * solution 2
 function addUpTo(n){
     return n * (n+1) / 2;
 }
-console.log(addUpTo(6));
+
 
 
 // what dose better mean before decided it? 
@@ -27,3 +27,5 @@ console.log(addUpTo(6));
 
 // among them SPEED, SPACE are important. 
 // Let's focus on evaluating Speed. 
+
+
