@@ -1,5 +1,13 @@
 const sum = require('./sum');
 
-test('adds 1 + 2 to equal 3', () => {
-  expect(sum(1, 2)).toEqual(3);
+test('Calculating the sum of two numbers', () => {
+  // Test case inputs
+  const num1 = 5;
+  const num2 = 7;
+
+  // Call the function
+  const result = sum(num1, num2);
+
+  // Check if the result is equal to the expected sum
+  expect(result).toBe(12);
 });
