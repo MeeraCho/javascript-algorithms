@@ -1,4 +1,4 @@
 const countOccurrences = require('./count-occurrences');
 
-const result = countOccurrences('Hello', 'l');
-console.log(result);
+const result = countOccurrences('Hellol', 'l');
+console.log(result); 

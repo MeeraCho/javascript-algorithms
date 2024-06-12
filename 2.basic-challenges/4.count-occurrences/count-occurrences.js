@@ -8,15 +8,15 @@ const countOccurrences = (str, char) => {
         } 
     }
 
-    return count;
+    // return count;
 
-    // ------ using split()
-    //console.log(str.split('')); //'h' 'e' 'l' 'l' 'o'
-    // console.log(str.split(char)); //[ 'He', '', 'o' ]
-    // console.log(str.split(char).length); // 3
-    // console.log(str.split(char).length - 1); // 2
+    // ------ using split() 
+    console.log(str.split('')); //['h' 'e' 'l' 'l' 'o']
+    console.log(str.split(char)); //[ 'He', '', 'o' ]
+    console.log(str.split(char).length); // 3
+    console.log(str.split(char).length - 1); // 2
 
-    // str.split(char).length - 1;
+    str.split(char).length - 1;
 }
 
 module.exports = countOccurrences;
