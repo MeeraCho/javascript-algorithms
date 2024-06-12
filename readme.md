@@ -1,7 +1,6 @@
 ### Javascript Algorithms & Data Structure
 
 - <b>Basic Challenges</b>
-- <a href="https://example.com" style="text-decoration: none;">hello-world</a>
   - [hello-world](2.basic-challenges/)
   - [sum](2.basic-challenges/)
   - [calculator](2.basic-challenges/)
@@ -9,7 +8,6 @@
   - [find-max-number](2.basic-challenges/)
   - [are-all-chars-unique](2.basic-challenges/)
   - [reverse-string](2.basic-challenges/)
-<br>
 
 - <b>Basic Concept</b>
   - [Big O](1.basic/bigO.js)
@@ -25,8 +23,8 @@
 <br>
 <br>
 <br>
----
-<p style="color: orange;"><b>References</b></p>
-<a href="https://learning.oreilly.com/course/70-javascript-challenges/9781835468814/">70+ JavaScript Challenges - Data Structures and Algorithms By Brad Traversy</a>
+
+<p><b>References</b></p>
+- <a href="https://learning.oreilly.com/course/70-javascript-challenges/9781835468814/">70+ JavaScript Challenges - Data Structures and Algorithms By Brad Traversy</a>
 
 
