@@ -1,13 +1,12 @@
 ### Javascript Algorithms & Data Structure
 
 - <b>Basic Challenges</b>
-  - [hello-world](2.basic-challenges/)
-  - [sum](2.basic-challenges/)
-  - [calculator](2.basic-challenges/)
-  - [count-occurrences](2.basic-challenges/)
-  - [find-max-number](2.basic-challenges/)
-  - [are-all-chars-unique](2.basic-challenges/)
-  - [reverse-string](2.basic-challenges/)
+  - [hello-world](2.basic-challenges/01-hello-world/hello-world.js)
+  - [sum](2.basic-challenges/02-sum/sum.js)
+  - [calculator](2.basic-challenges/03-calculator/calculator.js)
+  - [count-occurrences](2.basic-challenges/04-count-occurrences/count-occurrences.js)
+  - [find-max-number](2.basic-challenges/05-find-max-number/find-max-number.js)
+  - [reverse-string](2.basic-challenges/07-reverse-string/reverse-string.js)
 
 - <b>Basic Concept</b>
   - [Big O](1.basic/bigO.js)
