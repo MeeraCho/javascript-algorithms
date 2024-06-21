@@ -1,19 +1,15 @@
-//Q: Write a function called findMaxNumber that takes in an array of numbers and returns the largest number in the array.
+// function findMaxNumber(arr){
+//     return Math.max(...arr);
+// }
 
-const findMaxNumber = (numArray) => {
-    return Math.max(...numArray);
-}
-
-const findMaxNumber1 = (numArray) => {
-    max = numArray[0];
-    for(let i = 0; i < numArray.length; i++){
-        if (numArray[i] > max){
-            max = numArray[i]
+function findMaxNumber(arr){
+    let max = arr[0]; 
+    for(let i = 1; i < arr.length; i++){
+        if( arr[i] > max ){
+            max = arr[i];
         }
     }
     return max;
 }
 
-
 module.exports = findMaxNumber;
-

@@ -1,24 +1,23 @@
-const calculator = (num1, num2, operator) => {
+function calculator(num1, num2, operator){
     let result;
-
-    switch (num1, num2, operator) {
-        case '+':
+    switch(num1, num2, operator){
+        case '+' :
             result = num1 + num2;
-            break;
-        case '-': 
+            break; 
+        case '-' : 
             result = num1 - num2;
             break;
-        case '*':
+        case '*' :
             result = num1 * num2;
             break;
-        case '/':
+        case '/' :
             result = num1 / num2;
             break;
-        default:
-            throw new Error('Invalid Operator');
+        default :
+            throw new Eror('Invalid operator or number');
     }
 
-    return result;
+    return result; 
 }
 
 module.exports = calculator;
