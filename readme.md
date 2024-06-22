@@ -7,6 +7,9 @@
   - [count-occurrences](2.basic-challenges/04-count-occurrences/count-occurrences.js)
   - [find-max-number](2.basic-challenges/05-find-max-number/find-max-number.js)
   - [reverse-string](2.basic-challenges/07-reverse-string/reverse-string.js)
+  - [palindrome](2.basic-challenges/08-palindrome/palindrome.js)
+  - [count-vowels](2.basic-challenges/09-count-vowels/count-vowels.js)
+  - [remove-duplicate](2.basic-challenges/10-remove-duplicates/remove-duplicates.js)
 
 - <b>Basic Concept</b>
   - [Big O](1.basic/bigO.js)
