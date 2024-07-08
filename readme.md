@@ -15,7 +15,7 @@
   - [Big O](1.basic/bigO.js)
   - [Array](1.basic/array.js)
   - [object](1.basic/object.js)
-  - [pop()](1.basic/pop().js)
+  - [pop()](1.basic/pop().js)s
   - [push()](1.basic/push().js)
   - [queue](1.basic/queue.js)
   - [shift()](1.basic/shift().js)
