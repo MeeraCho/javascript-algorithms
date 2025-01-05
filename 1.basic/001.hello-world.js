@@ -2,4 +2,6 @@ function helloWorld() {
     return 'Hello World';
 }
 
-module.exports = helloWorld;
+const result = helloWorld();
+
+console.log(result);
