@@ -13,4 +13,7 @@
 //     return str.split('').reverse().join('');
 // }
 
-module.exports = reverseString;
+
+const result = reverseString('hello world');
+
+console.log(result);

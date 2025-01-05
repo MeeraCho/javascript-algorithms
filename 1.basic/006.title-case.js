@@ -15,4 +15,7 @@ function titleCase(str) {
     return str.replace(/\b\w/g, (match) => match.toUpperCase());
 }
 
-module.exports = titleCase
+
+const result = titleCase('the quick brown fox');
+
+console.log(result);
