@@ -14,4 +14,6 @@ function countOccurrences(str, char){
     return count;
 }
 
-module.exports = countOccurrences;
+const result = countOccurrences('Helloll', 'l');
+
+console.log(result); 

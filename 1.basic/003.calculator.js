@@ -20,4 +20,6 @@ function calculator(num1, num2, operator){
     return result; 
 }
 
-module.exports = calculator;
+const result = calculator(1, 2, '+');
+
+console.log(result);
