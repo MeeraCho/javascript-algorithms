@@ -1,32 +1,45 @@
 ### Javascript Algorithms & Data Structure
 
-- <b>Basic Challenges</b>
-  - [001. hello-world](2.basic-challenges/01-hello-world/hello-world.js)
-  - [002. sum](2.basic-challenges/02-sum/sum.js)
-  - [003. calculator](2.basic-challenges/03-calculator/calculator.js)
-  - [004. count-occurrences](2.basic-challenges/04-count-occurrences/count-occurrences.js)
-  - [find-max-number](2.basic-challenges/05-find-max-number/find-max-number.js)
-  - [reverse-string](2.basic-challenges/07-reverse-string/reverse-string.js)
-  - [palindrome](2.basic-challenges/08-palindrome/palindrome.js)
-  - [count-vowels](2.basic-challenges/09-count-vowels/count-vowels.js)
-  - [remove-duplicate](2.basic-challenges/10-remove-duplicates/remove-duplicates.js)
+- <b>Basic</b>
+  <details>
+      <summary>001. hello-world</summary>
+        <p> &nbsp;&nbsp; Q: Write a function called `helloWorld` that returns a string of 'Hello World!'.</p>
+        <br>
+  </details>
+  
+  <details>
+      <summary>002. sum</summary>
+        <p> &nbsp;&nbsp; Q: Write a function called getSum that takes in two numbers and returns the sum of those two numbers.</p>
+        <br>
+  </details>
+
+  <details>
+      <summary>003. calculator</summary>
+        <p> &nbsp;&nbsp; Q: Write a function called calculator that takes in 2 numbers and an operator and returns the result of the calculation.</p>
+        <br>
+  </details>
+
+  <details>
+      <summary>004. count-occurrences</summary>
+        <p> &nbsp;&nbsp; Q: Write a function called countOccurrences() that takes in a string and a character and returns the number of occurrences of that character in the string.</p>
+        <br>
+  </details>
+
+  <details>
+      <summary>005. find-max-number</summary>
+        <p> &nbsp;&nbsp; Q: Write a function called findMaxNumber that takes in an array of numbers and returns the largest number in the array.</p>
+        <br>
+  </details>
+
+----
 
 - <b>Basic Concept</b>
-  - [Big O](1.basic/bigO.js)
-  - [Array](1.basic/array.js)
-  - [object](1.basic/object.js)
-  - [pop()](1.basic/pop().js)s
-  - [push()](1.basic/push().js)
-  - [queue](1.basic/queue.js)
-  - [shift()](1.basic/shift().js)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
 
 <p><b>References</b></p>
 - <a href="https://learning.oreilly.com/course/70-javascript-challenges/9781835468814/">70+ JavaScript Challenges - Data Structures and Algorithms By Brad Traversy</a>
-
-

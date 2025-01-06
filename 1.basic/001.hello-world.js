@@ -4,4 +4,5 @@ function helloWorld() {
 
 const result = helloWorld();
 
-console.log(result);
+console.log(result); 
+
