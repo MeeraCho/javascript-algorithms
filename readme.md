@@ -38,8 +38,14 @@
     </details>
 
     <details>
-        <summary>07. reverse-string</summary>
+        <summary> 07. reverse-string </summary>
           <p> &nbsp;&nbsp; Q: Write a function called `reverseString` that takes in a string and returns the reverse of that string.</p>
+          <br>
+    </details>
+
+    <details>
+        <summary>08. Palindrome</summary>
+          <p> &nbsp;&nbsp; Q: Write a function called isPalindrome that takes in a string and returns true if the string is a palindrome and false if it is not.</p>
           <br>
     </details>
 
