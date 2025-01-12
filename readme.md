@@ -49,6 +49,12 @@
           <br>
     </details>
 
+    <details>
+        <summary>09. count-vowels</summary>
+          <p> &nbsp;&nbsp; Q: Write a function called countVowels that takes in a string and returns the number of vowels in the string.</p>
+          <br>
+    </details>
+
 ---
 
 -   <b>Basic Concept</b>
