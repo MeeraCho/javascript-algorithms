@@ -1,3 +1,5 @@
+// Q: Write a function called isPalindrome that takes in a string and returns true if the string is a palindrome and false if it is not.
+
 // Solution 1
 function isPalindrome(str) {
     // Remove all non-alphanumeric characters and convert the string to lowercase
