@@ -55,6 +55,12 @@
           <br>
     </details>
 
+    <details>
+        <summary>10. remove-duplication</summary>
+          <p> &nbsp;&nbsp;&nbsp; Q: Write a function called removeDuplicates that takes in an array and returns a new array with duplicates removed.</p>
+          <br>
+    </details>
+
 ---
 
 -   <b>Basic Concept</b>
