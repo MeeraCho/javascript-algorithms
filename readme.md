@@ -63,10 +63,15 @@
 
     <details>
         <summary>11. fizzbuzz</summary>
-          <p> &nbsp;&nbsp;&nbsp; Q: write a function called fizzBuzzArray that takes in a number and returns an array. The array should contain all the numbers from 1 to the number passed in. However, if the number is divisible by 3, you should replace the number with "Fizz". If the number is divisible by 5, you should replace the number with "Buzz". If the number is divisible by both 3 and 5, you should replace the number with "FizzBuzz".</p>
+          <p> &nbsp;&nbsp;&nbsp; Q: write a function called fizzBuzzArray that takes in a number and returns an array. The array should contain all the numbers from 1 to the number passed in. However, if the number is divisible by 3, you should replace the number with "Fizz". If the number is divisible by 5, you should replace the number with "Buzz". If the number is divisible by both 3 and 5, you should replace the number with "FizzBuzz". <a href="1.basic/11.fizzbuzz.js" target="_blank"> [🚀 View Result] </a></p>
           <br>
     </details>
 
+    <details>
+        <summary>12. array-intersection</summary>
+          <p> &nbsp;&nbsp;&nbsp; Q: Write a function called arrayIntersection that takes in two arrays and returns an array containing the intersection of the two input arrays (i.e., the common elements that appear in both arrays). <a href="1.basic/12.array-intersection.js" target="_blank"> [🚀 View Result] </a></p>
+          <br>
+    </details>
 ---
 
 -   <b>Basic Concept</b>
