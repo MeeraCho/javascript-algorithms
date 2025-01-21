@@ -13,7 +13,8 @@ function arrayIntersection(arr1, arr2) {
     return intersection;
 }
 
-//--------solution 2------------------
+
+// //--------solution 2------------------
 function arrayIntersection2(arr1, arr2) {
     const set1 = new Set(arr1);
     const intersection = [];
@@ -27,7 +28,8 @@ function arrayIntersection2(arr1, arr2) {
     return intersection;
 }
 
-//--------solution 3------------------
+
+// //--------solution 3------------------
 function arrayIntersection3(arr1, arr2) {
     let intersectionArr = [];
     for (let i = 0; i < arr1.length; i++) {
@@ -41,6 +43,7 @@ function arrayIntersection3(arr1, arr2) {
     return intersectionArr;
 }
 
+
 const result1 = arrayIntersection([1, 2, 3, 4, 5], [1, 3, 5, 7, 9]); // should return [1, 3, 5]
 const result2 = arrayIntersection2([1, 1, 1, 1, 1], [2, 2, 2, 2, 2]); // should return []
 const result3 = arrayIntersection3([1, 2, 3, 4, 5], [5, 4, 3, 2, 1]); // should return [1, 2, 3, 4, 5]
@@ -48,3 +51,4 @@ const result3 = arrayIntersection3([1, 2, 3, 4, 5], [5, 4, 3, 2, 1]); // should 
 console.log(result1);
 console.log(result2);
 console.log(result3);
+
