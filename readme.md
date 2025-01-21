@@ -86,6 +86,12 @@
           <br>
     </details>
 
+    <details>
+        <summary>14. Find Missing Number</summary>
+          <p> &nbsp;&nbsp;&nbsp; Q: Write a function called findMissingNumber that takes in an array of unique numbers from 1 to n (inclusive), where one number is missing. It should return the missing number. <a href="1.basic/14.find-missing-number.js" target="_blank"> [🚀 View Result] </a></p>
+          <br>
+    </details>
+
 ---
 
 -   <b>Basic Concept</b>
