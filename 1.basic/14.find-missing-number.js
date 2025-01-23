@@ -1,6 +1,6 @@
 // Q: Write a function called findMissingNumber that takes in an array of unique numbers from 1 to n (inclusive), where one number is missing. It should return the missing number.
 
-//solution 1 
+//my solution
 function findMissingNumber1(numbers) {
     let missingNumber = -1;
 
@@ -33,7 +33,7 @@ function findMissingNumber2(arr) {
     return expectedSum - actualSum;
 }
 
-// Using reduce
+// solution 2 - using reduce
 function findMissingNumber3(arr) {
     // check if it's an array 
     if (!arr || arr.length === 0) {

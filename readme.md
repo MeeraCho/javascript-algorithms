@@ -92,6 +92,12 @@
           <br>
     </details>
 
+    <details>
+        <summary>15. Find Missing Letter</summary>
+          <p> &nbsp;&nbsp;&nbsp; Q: Write a function called findMissingLetter that takes in an array of consecutive (increasing) letters as input and returns the missing letter in the array. <a href="1.basic/15.find-missing-letter.js" target="_blank"> [🚀 View Result] </a></p>
+          <br>
+    </details>
+
 ---
 
 -   <b>Basic Concept</b>

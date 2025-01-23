@@ -8,7 +8,7 @@
 // If more than three people like it, it should return '{name1}, {name2} and {x} others like this'
 
 
-// solution 1
+// my solution 
 function displayLikes(names) {
     const numOfName = names.length;
     let message = '';
