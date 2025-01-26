@@ -98,6 +98,12 @@
           <br>
     </details>
 
+    <details>
+        <summary>16. Are all characters unique?</summary>
+          <p> &nbsp;&nbsp;&nbsp; Q: Write a function called areAllCharactersUnique that takes in a string and returns true or false depending on whether all characters in the string are unique (i.e., no character is repeated). <a href="1.basic/16.are-all-char-unique.js" target="_blank"> [🚀 View Result] </a></p>
+          <br>
+    </details>
+
 ---
 
 -   <b>Basic Concept</b>
